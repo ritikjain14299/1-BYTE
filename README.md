@@ -36,7 +36,29 @@ Once `pip` has finished downloading the dependencies:
 (env) python manage.py runserver
 ```
 And navigate to `http://127.0.0.1:8000/` or `LocalHost`
- 
+
+### Login Details for Admin 
+
+```
+adminx2@gmail.com
+adminx2
+```
+
+### Login Details for Teachers 
+
+```
+teacher@gmail.com
+teacher
+```
+
+### Login Details for Student
+
+```
+pratik@gmail.com
+pratik
+```
+
+
  # Features
  ### Admin
   Admin Login
@@ -112,26 +134,6 @@ And navigate to `http://127.0.0.1:8000/` or `LocalHost`
 
 
 
-### Login Details for Admin 
-
-```
-adminx2@gmail.com
-adminx2
-```
-
-### Login Details for Teachers 
-
-```
-teacher@gmail.com
-teacher
-```
-
-### Login Details for Student
-
-```
-pratik@gmail.com
-pratik
-```
 
 
 
